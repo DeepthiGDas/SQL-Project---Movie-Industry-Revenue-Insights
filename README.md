@@ -13,6 +13,6 @@ This repository contains SQL scripts and documentation for analyzing a movie dat
 - Data Warehousing Concepts: Applied principles of Data Warehousing, OLAP (Online Analytical Processing), and OLTP (Online Transaction Processing) for effective data management and analysis.
 - Performance Optimization: Focused on optimizing query performance through indexing and efficient query design.
 ### Project Components
-- SQL Scripts: Includes SQL queries used for data extraction, transformation, and analysis.
+- SQL Scripts: Includes screenshots of SQL queries used for data extraction, transformation, and analysis.
 ## Conclusion
 This project helped me learn and harness the power of SQL and MySQL in managing and analyzing extensive datasets. By utilizing advanced SQL techniques, such as complex joins, window functions, and ETL processes, I efficiently handled over 1 million records to perform detailed revenue analysis. The use of SQL enabled precise data extraction, transformation, and reporting, resulting in actionable insights that significantly supported data-driven decision-making. This project highlights SQL’s critical role in data analysis and its effectiveness in deriving meaningful insights from large-scale data.
