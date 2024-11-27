@@ -16,3 +16,8 @@ This repository contains SQL scripts and documentation for analyzing a movie dat
 - SQL Scripts: Includes screenshots of SQL queries used for data extraction, transformation, and analysis.
 ## Conclusion
 This project helped me learn and harness the power of SQL and MySQL in managing and analyzing extensive datasets. By utilizing advanced SQL techniques, such as complex joins, window functions, and ETL processes, I efficiently handled over 1 million records to perform detailed revenue analysis. The use of SQL enabled precise data extraction, transformation, and reporting, resulting in actionable insights that significantly supported data-driven decision-making. This project highlights SQL’s critical role in data analysis and its effectiveness in deriving meaningful insights from large-scale data.
+
+## Author
+**Deepthi G Das**  
+📧 [deepthigdas@243@gmail.com](mailto:deepthigdas@243@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepthi-g-das)
